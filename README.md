@@ -27,3 +27,6 @@ IDE： IDEA2018
 <script src="static/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 ```
 
+
+
+**感谢模板之家的前端模板，如有侵权，请联系我删除。**
